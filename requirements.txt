@@ -1,0 +1,3 @@
+fastapi==0.115.0
+pymupdf==1.24.10
+psycopg2-binary==2.9.9
